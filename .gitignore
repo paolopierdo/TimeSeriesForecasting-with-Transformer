@@ -1,0 +1,11 @@
+ts
+other
+test.ipynb
+.venv
+data/f1_telemetry_silverstone_2023.csv
+data/*
+*.html
+notebooks/*
+lightning_logs/*
+pickles/*
+AutogluonModels/*
